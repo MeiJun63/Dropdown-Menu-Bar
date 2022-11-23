@@ -2,8 +2,9 @@
 Dropdown Menu Bar practice with CodingNepal
 lecture video link: https://youtu.be/_IHxhJlIPZA?list=PLpwngcHZlPafX3KstAkD0RAd3WTLj5ULf
 
-```
+
 <h1>HTML</h1>
+```
 <!DOCTYPE html>
 <!-- Reference from CodingNepal - www.codingnepalweb.com -->
 <html lang="en">
